@@ -1,0 +1,30 @@
+build
+logs
+.gradle
+
+# OSX Files
+.DS_Store
+
+# Compiled class file
+*.class
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Java
+*.jar
+
+# C Object files
+*.o
+*.a
+*.ko
+*.obj
+
+# Libraries
+*.lib
+
+# Bundles
+*.tgz
+*.zip
